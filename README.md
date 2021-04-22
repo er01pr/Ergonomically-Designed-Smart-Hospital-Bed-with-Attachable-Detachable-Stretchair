@@ -7,6 +7,7 @@
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <div style="text-align: "justify">
+                                 
 ### Abstract
 The purpose of this study is to develop medical equipment that can help the health-care workers in transferring the patient 
 from a hospital bed to other medical equipments such as a wheelchair and a stretcher effectively and without the very-high-risk of 
@@ -46,7 +47,7 @@ transferring process of patients. The proponents had used the REBA
 assessment tool and the Visual Analogue Scale tool to compare the level 
 of risk and the amount of paint in using the Stretchair versus the traditional way of transferring the patient.
 
-Results and Discussion
+### Results and Discussion
 
 The proponents had used the REBA worksheet and got a REBA 
 score of (12), which means a very-high-risk score, and need to implement change (See Figure 1 and Table 1). Based on the result, the female 
