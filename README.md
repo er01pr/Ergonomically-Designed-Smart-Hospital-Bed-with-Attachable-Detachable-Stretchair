@@ -91,7 +91,7 @@ performance
 
 ### Bibliography
 
-The Ron Jude Joshua Gripo (Founder) was born in in July 9, 
+Ron Jude Joshua Gripo (Founder) was born in in July 9, 
 1997 in Manila, Philippines. The coauthor is earned his BS Electronics 
 Engineering Degree in Lyceum of the 
 Philippines University – Cavite.
@@ -110,7 +110,7 @@ Ron Jude Joshua Gripo is currently working for Microsoft.
 
 <hr>
 
-The Sherry Joy De Leon was born in September 12, 1996 in Dagupan City, Pangasinan, Philippines. The co-author 
+Sherry Joy De Leon was born in September 12, 1996 in Dagupan City, Pangasinan, Philippines. The co-author 
 earned her BS Industrial Engineering 
 degree at the Lyceum of the Philippines 
 University – Cavite in 2019.The co-author had been assigned as a Quality Assurance Engineer at 
@@ -126,7 +126,7 @@ Sherry Joy is currently working for Hocheng Philippines.
 
 <hr>
 
-The Raycee Tagle was born in 
+Raycee Tagle was born in 
 January 4, 1998 in Cavite City, Philippines. The co-author earned his BS
 Mechanical Engineering degree at the 
 Lyceum of the Philippines University –
@@ -143,7 +143,7 @@ The co-author earned his BS Mechanical Engineering degree at the Lyceum of the P
 
 <hr>
 
-The co-author earned his BS Computer Engineering degree at the Lyceum of the Philippines University –
+Ian Jimenez earned his BS Computer Engineering degree at the Lyceum of the Philippines University –
 Cavite in 2019.
 The co-author had attended seminars 
 such as: BIT Summit 2018: “Bringing 
