@@ -77,7 +77,7 @@ pain, the device reduced the body pain specially in the lower back by
 For technical testing the proponents conducted a functionatlity test, safety test and user-friendliness test. Based on the results the 
 Stretchair is 94% functional, 100% safe and 93.33% user-friendly
 
-###Conclusion
+### Conclusion
 
 In conclusion, using the new ergonomically design hospital 
 bed, Testing method showed good results as the Risk of Musculoskeletal disorder was reduced from a score of 12 which means very 
@@ -89,7 +89,7 @@ system can do all its basic functions that the proponents expected
 that’s why the functionality test has resulted to 94% functionality 
 performance
 
-###Bibliography
+### Bibliography
 
 The Ron Jude Joshua Gripo (Founder) was born in in July 9, 
 1997 in Manila, Philippines. The coauthor is earned his BS Electronics 
