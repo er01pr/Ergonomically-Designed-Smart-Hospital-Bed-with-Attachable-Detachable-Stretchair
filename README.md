@@ -6,6 +6,8 @@
 " target="_blank"><img src="http://img.youtube.com/vi/Qn0UlA5XbGw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+## This paper and design was published in a local and international Engineering Journal, Awarded the TESLA Excellence in Engineering in Research, and Best Engineering Research in the 2019 Research Colloquium organized by Lyceum of the Philippines University - Cavite Philippines.
+
 <div style="text-align: "justify">
                                  
 ### Abstract
@@ -152,4 +154,8 @@ Summit 2018, Seminar on Github:”Making the most out of Git” (2017).
 Benedict Ian Jimenez with his co-authors was awarded the prestigious award as the TESLA Award for Excellence in Research, Best Paper 
 Presentation and most Outstanding Engineering during the 5th Research 
 Colloquiuim that was held at Bayleaf Hotel Cavite, Philippines
+
+<hr>
+
+
 </div>
